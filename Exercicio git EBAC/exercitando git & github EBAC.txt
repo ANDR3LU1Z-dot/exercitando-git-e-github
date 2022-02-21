@@ -2,5 +2,6 @@ EBAC EXERCICIO MODULO 02
 
 --exercitando git & github
 
---primeira alteração;
---segunda alteração.
+--primeira alteração.
+--resolução de conflito
+
