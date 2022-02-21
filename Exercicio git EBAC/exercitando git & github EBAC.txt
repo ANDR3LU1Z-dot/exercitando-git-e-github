@@ -2,4 +2,5 @@ EBAC EXERCICIO MODULO 02
 
 --exercitando git & github
 
---primeira alteração.
+--primeira alteração;
+--segunda alteração.
